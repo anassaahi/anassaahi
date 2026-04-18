@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Anas Faiz
+# Hello, I'm Anas Faiz
 
 <div align="center">
   
 **Cybersecurity Analyst | Full-Stack Developer | AI/ML Enthusiast**
 
-📍 Lahore, Pakistan | 📧 [anasfaizsahi6@gmail.com](mailto:anasfaizsahi6@gmail.com) | 📱 +92-3395901243
+Lahore, Pakistan | [anasfaizsahi6@gmail.com](mailto:anasfaizsahi6@gmail.com) | +92-3395901243
 
 [LinkedIn](https://linkedin.com/in/anas-faiz-4289aa270) • [GitHub](https://github.com/anassaahi)
 
@@ -12,15 +12,13 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
-I'm a **Computer Science student** at University of Engineering and Technology Lahore (GPA: 3.853) with a passion for building innovative solutions across full-stack development, cybersecurity, and AI/ML. I specialize in designing robust systems, conducting security analysis, and transforming complex problems into elegant code.
-
-Currently working as a **Cybersecurity Analyst** on critical infrastructure forensic analysis projects, with hands-on experience in multi-vector APT attacks, digital forensics, and security mitigation strategies.
+I'm a **Computer Science student** at University of Engineering and Technology Lahore with a passion for building innovative solutions across full-stack development, cybersecurity, and AI/ML. I specialize in designing robust systems, conducting security analysis, and transforming complex problems into elegant code.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -60,64 +58,7 @@ Currently working as a **Cybersecurity Analyst** on critical infrastructure fore
 
 ---
 
-## 💼 Professional Experience
-
-### 🔐 Cybersecurity Analyst (Project Basis) - Remote
-**Critical Infrastructure Forensic Analysis**
-
-- 🎯 Conducted forensic analysis of **multi-vector APT attacks** on London's Traffic Light Management System
-- 🔍 Investigated complex exploitation chains: phishing, SQL injection, and SSH attacks
-- 📊 Performed **digital forensic and cybersecurity analysis** on image files for legal case scenarios
-- 📝 Authored comprehensive technical reports with mitigation strategies for operational and economic impacts
-- 🛡️ Developed defenses against deepfake-based disinformation campaigns
-
----
-
-## 🚀 Featured Projects
-
-### 1. 📄 Research Intro Generator (Refiner Agent)
-**Next.js 14 | TypeScript | Gemini API | MCP**
-
-Autonomous multi-agent pipeline for converting research drafts into IEEE-formatted papers
-- 🤖 Architected multi-stage refinement pipeline (Refine → Optimize → Polish)
-- 🔧 Implemented custom Model Context Protocol (MCP) with self-healing JSON parsers
-- ⚡ Exponential-backoff + retry logic for robust API usage under rate limits
-- 📊 Real-time agent visualization and automated .docx export
-- 👥 Led Refiner Scrum team to successful delivery
-
-### 2. 🚴 Bicycle Marketplace Application
-**Flutter | Dart | Firebase | Cloud Firestore**
-
-Cross-platform marketplace app with optimized mobile UX
-- 📱 Responsive Flutter UI with optimized mobile experience
-- 🔐 Serverless Firebase backend (Auth, Firestore, Storage)
-- 🔍 Advanced search filters (gears, suspension, condition)
-- 📍 GeoLocator integration for local discovery
-- 📸 Multi-image uploads with secure storage
-
-### 3. 🗄️ Custom SQL Database Engine
-**C++ | React | Node.js | B+ Tree**
-
-High-performance relational DBMS from scratch
-- ⚙️ B+ Tree indexing with 4KB paged storage
-- 💾 mmap-based I/O optimizations for performance
-- 🔒 ACID guarantees via Write-Ahead Logging (WAL)
-- 🔐 Two-Phase Locking (2PL) and MVCC concurrency control
-- 🎨 React + Node.js GUI for visual query execution
-
-### 4. 🦺 Real-Time PPE Compliance Detection System
-**Python | YOLOv8 | PyTorch | CUDA | OpenCV**
-
-Real-time safety equipment detection system
-- 📊 Trained YOLOv8 model achieving **77% mAP@50** on multi-class dataset
-- 🎯 End-to-end pipeline: dataset curation, annotation, CUDA-accelerated training
-- 💻 Offline-capable inference for images, video, and live feeds
-- 🚀 VRAM and batch-size optimizations for GPU deployment
-- 🖼️ Memory-efficient processing on graphics cards
-
----
-
-## 📚 Areas of Expertise
+## Areas of Expertise
 
 | Domain | Skills |
 |--------|--------|
@@ -130,13 +71,13 @@ Real-time safety equipment detection system
 
 ---
 
-## 🎖️ Soft Skills
+## Soft Skills
 
-✅ **Agile Scrum Leadership** | Problem Solving | Technical Reporting | Teamwork | Communication
+ **Agile Scrum Leadership** | Problem Solving | Technical Reporting | Teamwork | Communication
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -150,16 +91,16 @@ Real-time safety equipment detection system
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- 🚀 Advanced system design patterns
-- 🤖 Large Language Models (LLMs) and prompt engineering
-- 🔐 Advanced cybersecurity and threat modeling
-- 📊 Distributed systems and microservices architecture
+- Advanced system design patterns
+- Large Language Models (LLMs) and prompt engineering
+- Advanced cybersecurity and threat modeling
+- Distributed systems and microservices architecture
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -174,22 +115,22 @@ Real-time safety equipment detection system
 
 ---
 
-## 🎯 Fun Facts
+## Fun Facts
 
-- 🏆 GPA: 3.853 (UET Lahore)
-- 🔬 Love solving complex security puzzles
-- 💡 Always building something new
-- 🌍 Passionate about cybersecurity in critical infrastructure
-- 📖 Tech writer and documentation enthusiast
+- GPA: 3.853 (UET Lahore)
+- Love solving complex security puzzles
+- Always building something new
+- Passionate about cybersecurity in critical infrastructure
+- Tech writer and documentation enthusiast
 
 ---
 
 <div align="center">
 
-### 👀 Profile Views
+### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=anassaahi&color=blueviolet)
 
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration! 🚀**
+**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration! **
 
 </div>
