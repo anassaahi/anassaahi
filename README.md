@@ -4,7 +4,7 @@
   
 **Cybersecurity Analyst | Full-Stack Developer | AI/ML Enthusiast**
 
-Lahore, Pakistan | [anasfaizsahi6@gmail.com](mailto:anasfaizsahi6@gmail.com) | +92-3395901243
+Lahore, Pakistan | [anasfaizsahi6@gmail.com](mailto:anasfaizsahi6@gmail.com) | +92-3165901243
 
 [LinkedIn](https://linkedin.com/in/anas-faiz-4289aa270) • [GitHub](https://github.com/anassaahi)
 
