@@ -1,136 +1,173 @@
-# Hello, I'm Anas Faiz
-
 <div align="center">
-  
-**Cybersecurity Analyst | Full-Stack Developer | AI/ML Enthusiast**
 
-Lahore, Pakistan | [anasfaizsahi6@gmail.com](mailto:anasfaizsahi6@gmail.com) | +92-3165901243
+<br>
 
-[LinkedIn](https://linkedin.com/in/anas-faiz-4289aa270) • [GitHub](https://github.com/anassaahi)
+# ANAS FAIZ
+
+<sub>C Y B E R S E C U R I T Y &nbsp;·&nbsp; F U L L - S T A C K &nbsp;·&nbsp; A I / M L</sub>
+
+<br>
+
+◆　◆　◆
+
+<br>
+
+<a href="https://anassaahi.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=1a1a1a" height="45"/>
+</a>
+
+**anassaahi.github.io/portfolio**
+
+<br>
+
+Lahore, Pakistan &nbsp;|&nbsp; <a href="mailto:anasfaizsahi6@gmail.com">anasfaizsahi6@gmail.com</a> &nbsp;|&nbsp; +92-316-5901243
+
+<a href="https://linkedin.com/in/anas-faiz-4289aa270">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/anassaahi">GitHub</a> &nbsp;·&nbsp; <a href="https://anassaahi.github.io/portfolio/">Website</a>
 
 </div>
 
----
-
-## About Me
-
-I'm a **Computer Science student** at University of Engineering and Technology Lahore with a passion for building innovative solutions across full-stack development, cybersecurity, and AI/ML. I specialize in designing robust systems, conducting security analysis, and transforming complex problems into elegant code.
+<br>
 
 ---
 
-## Tech Stack
+<br>
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 🜁&nbsp; ABOUT
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Computer Science student at the **University of Engineering and Technology, Lahore**, working at the intersection of full-stack development, cybersecurity, and applied AI/ML — designing robust systems, dissecting security incidents, and turning complex problems into clean code.
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI/ML & Computer Vision
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-13AFF0?style=for-the-badge&logo=yolo&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-5A7F8D?style=for-the-badge&logo=nmap&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<br>
 
 ---
 
-## Areas of Expertise
+<br>
 
-| Domain | Skills |
-|--------|--------|
-| **Software Development** | Full-stack web & mobile development, System design |
-| **Data Structures** | B+ Trees, Hash Tables, Graphs, Advanced algorithms |
-| **Database Systems** | Relational databases, Query optimization, ACID properties |
-| **Cybersecurity** | Forensic analysis, APT investigation, Penetration testing |
-| **Artificial Intelligence** | Machine Learning, Deep Learning, Neural Networks |
-| **Computer Vision** | Object detection (YOLO), Image processing, Real-time inference |
-
----
-
-## Soft Skills
-
- **Agile Scrum Leadership** | Problem Solving | Technical Reporting | Teamwork | Communication
-
----
-
-## GitHub Stats
+### 🜂&nbsp; STACK
 
 <div align="center">
 
-![Anas Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassaahi&show_icons=true&theme=dark&count_private=true)
+**Languages**
+<br>
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anassaahi&layout=compact&theme=dark)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anassaahi&theme=dark)
+**Frontend & Mobile**
+<br>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+**Backend & Data**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-000000?style=flat-square&logo=firebase&logoColor=white)
+
+<br>
+
+**AI / ML / Vision**
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=white)
+
+<br>
+
+**Tools & Platforms**
+<br>
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
----
-
-## Currently Learning
-
-- Advanced system design patterns
-- Large Language Models (LLMs) and prompt engineering
-- Advanced cybersecurity and threat modeling
-- Distributed systems and microservices architecture
+<br>
 
 ---
 
-## Let's Connect!
+<br>
+
+### 🜃&nbsp; EXPERTISE
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-faiz-4289aa270)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasfaizsahi6@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anassaahi)
-
-**Phone:** +92-3395901243  
-**Location:** 📍 Lahore, Pakistan
+| Domain | Focus |
+|:--|:--|
+| Software Development | Full-stack web & mobile, system design |
+| Data Structures | B+ Trees, hash tables, graphs, advanced algorithms |
+| Database Systems | Relational design, query optimization, ACID |
+| Cybersecurity | Forensic analysis, APT investigation, penetration testing |
+| Artificial Intelligence | Machine learning, deep learning, neural networks |
+| Computer Vision | Object detection (YOLO), image processing, real-time inference |
 
 </div>
 
----
-
-## Fun Facts
-
-- GPA: 3.853 (UET Lahore)
-- Love solving complex security puzzles
-- Always building something new
-- Passionate about cybersecurity in critical infrastructure
-- Tech writer and documentation enthusiast
+<br>
 
 ---
+
+<br>
+
+### 🜄&nbsp; CURRENTLY EXPLORING
 
 <div align="center">
 
-### Profile Views
+Advanced system design patterns &nbsp;·&nbsp; LLMs & prompt engineering
+<br>
+Threat modeling & applied cybersecurity &nbsp;·&nbsp; Distributed systems
 
-![](https://komarev.com/ghpvc/?username=anassaahi&color=blueviolet)
+</div>
 
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration! **
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+![Anas Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassaahi&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=cfcfcf)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anassaahi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cfcfcf)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anassaahi&theme=dark&hide_border=true&background=0D0D0D&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+*GPA 3.853 · UET Lahore*
+<br>
+*Building quietly, breaking things carefully, documenting everything.*
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=anassaahi&color=1a1a1a&style=flat-square&label=VIEWS)
+
+<br>
+
+**[→ anassaahi.github.io/portfolio](https://anassaahi.github.io/portfolio/)**
 
 </div>
