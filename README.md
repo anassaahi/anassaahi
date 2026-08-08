@@ -22,7 +22,7 @@
 
 Lahore, Pakistan &nbsp;|&nbsp; <a href="mailto:anasfaizsahi6@gmail.com">anasfaizsahi6@gmail.com</a> &nbsp;|&nbsp; +92-316-5901243
 
-<a href="https://linkedin.com/in/anas-faiz-4289aa270">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/anassaahi">GitHub</a> &nbsp;·&nbsp; <a href="https://anassaahi.github.io/portfolio/">Website</a>
+<a href="https://linkedin.com/in/anas-faiz-4289aa270">LinkedIn</a> &nbsp;·&nbsp; <a href="https://anassaahi.github.io/portfolio/">Website</a>
 
 </div>
 
