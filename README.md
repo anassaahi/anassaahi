@@ -4,7 +4,7 @@
 
 # ANAS FAIZ
 
-<sub>C Y B E R S E C U R I T Y &nbsp;·&nbsp; F U L L - S T A C K &nbsp;·&nbsp; A I / M L</sub>
+<sub>R O B O T I C S &nbsp;·&nbsp; F U L L - S T A C K &nbsp;·&nbsp; A I / M L</sub>
 
 <br>
 
