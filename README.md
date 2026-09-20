@@ -20,7 +20,7 @@
 
 <br>
 
-Lahore, Pakistan &nbsp;|&nbsp; <a href="mailto:anasfaizsahi6@gmail.com">anasfaizsahi6@gmail.com</a> &nbsp;|&nbsp; +92-316-5901243
+Lahore, Pakistan &nbsp;|&nbsp; <a href="mailto:anasfaizsahi6@gmail.com">anasfaizsahi6@gmail.com</a> &nbsp;|&nbsp; +92 328 6890191
 
 <a href="https://linkedin.com/in/anas-faiz-4289aa270">LinkedIn</a> &nbsp;·&nbsp; <a href="https://anassaahi.github.io/portfolio/">Website</a>
 
